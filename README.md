@@ -14,3 +14,4 @@ NUMPAD 4: Full IA mode
 Free mode:
 → : left
 ← : right
+
