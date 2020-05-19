@@ -2,6 +2,8 @@
 
 Racing game create with Pygame. IA is made with Tensorflow.
 
+![Alt text](AI-Race-screenshot.png?raw=true "AI-Race")
+
 +: Increase speed
 -:Decrease speed
 
