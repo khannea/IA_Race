@@ -2,8 +2,6 @@
 
 Racing game create with Pygame. IA is made with Tensorflow.
 
-![Alt text](AI-Race-screenshot.png?raw=true "AI-Race")
-
 +: Increase speed
 -:Decrease speed
 
@@ -16,4 +14,6 @@ NUMPAD 4: Full IA mode
 Free mode:
 → : left
 ← : right
+
+![Alt text](AI-Race-screenshot.png?raw=true "AI-Race")
 
