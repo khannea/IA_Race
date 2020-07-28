@@ -16,6 +16,5 @@ NUMPAD 4: Full IA mode
 Free mode:
 → : left
 ← : right
-
 ![Alt text](AI-Race-screenshot.png?raw=true "AI-Race")
 
