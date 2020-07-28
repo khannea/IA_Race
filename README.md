@@ -1,6 +1,6 @@
 # Python_IA-Race
 
-Racing game create with Pygame. IA is made with Tensorflow.
+Racing game create with Pygame. IA is made with machine learning and neural network with Tensorflow .
 
 +: Increase speed
 -:Decrease speed
