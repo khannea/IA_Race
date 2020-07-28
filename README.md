@@ -5,8 +5,10 @@ Mission success: IA finish the race
 
 Racing game create with Pygame. IA is made with machine learning and neural network with Tensorflow .
 
+Hotheys:
 
 +: Increase speed
+
 -:Decrease speed
 
 
